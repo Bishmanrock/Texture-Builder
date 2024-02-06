@@ -1,0 +1,2 @@
+Processed texture: Test, Width: 16, Height: 16, Size: 1024 bytes, Offset: 0
+Processed texture: Test2, Width: 16, Height: 16, Size: 1024 bytes, Offset: 1024
