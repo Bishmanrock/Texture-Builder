@@ -1,2 +1,8 @@
-Processed texture: Test, Width: 16, Height: 16, Size: 1024 bytes, Offset: 0
-Processed texture: Test2, Width: 16, Height: 16, Size: 1024 bytes, Offset: 1024
+Processed texture: Atlas, Width: 255, Height: 255, Size: 260100 bytes, Offset: 0
+Processed texture: Brick, Width: 64, Height: 64, Size: 16384 bytes, Offset: 260100
+Processed texture: Doug, Width: 256, Height: 256, Size: 262144 bytes, Offset: 276484
+Processed texture: Font1, Width: 271, Height: 270, Size: 292680 bytes, Offset: 538628
+Processed texture: Prototype, Width: 128, Height: 128, Size: 65536 bytes, Offset: 831308
+Processed texture: Test, Width: 16, Height: 16, Size: 1024 bytes, Offset: 896844
+Processed texture: Test2, Width: 16, Height: 16, Size: 1024 bytes, Offset: 897868
+Processed texture: Test3, Width: 16, Height: 16, Size: 1024 bytes, Offset: 898892

@@ -1,11 +1,19 @@
  
 TEXTURE DETAILS
+Verified Name: Font1
+Verified Width: 271
+Verified Height: 270
+Verified Channels: 4
+Verified Size: 292680
+Verified Offset: 0
+ 
+TEXTURE DETAILS
 Verified Name: Test
 Verified Width: 16
 Verified Height: 16
-Verified Channels: 3
+Verified Channels: 4
 Verified Size: 1024
-Verified Offset: 0
+Verified Offset: 292680
  
 TEXTURE DETAILS
 Verified Name: Test2
@@ -13,4 +21,4 @@ Verified Width: 16
 Verified Height: 16
 Verified Channels: 4
 Verified Size: 1024
-Verified Offset: 1024
+Verified Offset: 293704
